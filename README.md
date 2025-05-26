@@ -49,7 +49,7 @@ A blockchain-based last will and testament executor.
 5. ETH is automatically distributed to all beneficiaries.
 
 ---
-0x10d585b8312d3813acfa940969d63dcc745991ff
+**contract address** - 0x10d585b8312d3813acfa940969d63dcc745991ff
 ## 🧪 Sample Test Flow
 # The Screenshot
 <img width="1470" alt="Screenshot 2025-05-26 at 14 20 49" src="https://github.com/user-attachments/assets/4ba0c6c5-829c-49b7-9780-398882d4a3be" />
